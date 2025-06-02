@@ -268,3 +268,14 @@ a:hover {
     height: 22px;
     margin-right: 4px;
 }
+
+.content__main-item.project video {
+    max-width: 300px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 25px;
+}
+
+.main-item__description video {
+    border-radius: 25px;
+}
